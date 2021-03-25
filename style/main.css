@@ -16,6 +16,7 @@ body {
     min-height: 100vh;
     text-rendering: optimizeSpeed;
     line-height: 1.5;
+    background: #8c8c8c;
 }
 
 button {
