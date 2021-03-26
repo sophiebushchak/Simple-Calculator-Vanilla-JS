@@ -18,4 +18,4 @@ What I'm kind of unhappy with is the way I managed the state. I feel like I coul
 
 There is also some code duplication because of the way I kept track of the numbers. I think I could fix this problem by refactoring the number state into a stack or an array of two numbers. Some of the checks and updates could have been changed into reusable functions probably.
 
-Once I learn more I would like the rewrite the CSS to be cleaner and refactor the logic.
+Once I learn more I would like to rewrite the CSS to be cleaner and refactor the logic.
